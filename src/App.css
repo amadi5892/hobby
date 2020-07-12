@@ -1,0 +1,44 @@
+.App {
+  border: solid;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FF6B6B; 
+}
+
+.img {
+  height: 150px;
+  width: 300px;
+  border-radius: 25px;
+  margin-right: 200px;
+  box-shadow: 2px 2px #FFE66D;
+}
+
+.organize {
+  display: flex;
+  
+}
+
+.card {
+  border-radius: 25px;
+  background-color: #4ECDC4;
+  width: 500px;
+  height: 300px;
+  margin: 40px 20px 0 50px;
+  box-shadow: 2px 2px 2px 2px #F7FFF7;
+}
+
+.heading {
+  color: #FFE66D;
+}
+
+.hobby {
+  color: #1A535C;
+}
+
+.descript {
+color: #1A535C;
+text-align: center;
+}
+
